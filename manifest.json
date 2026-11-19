@@ -1,0 +1,14 @@
+{
+  "name": "IMO Watch",
+  "short_name": "IMO Watch",
+  "description": "IMO 및 기국(파나마·라이베리아·마셜제도) 요구사항 업데이트",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#0b3d63",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
